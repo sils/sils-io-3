@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Powered Start Bootstrap Template
-email: vidhyav656@gmail.com
-description: Stylish Portfolio is a responsive, one page portfolio theme for Bootstrap created by Start Bootstrap. The theme features multiple content sections with an off canvas navigation menu.
+title: Lasse's personal site
+email: lasse.schuirmann@gmail.com
+description: This is a private site listing stuff I find interesting.
 
-keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
+keywords: private, interesting
 
-baseurl: "/startbootstrap-stylish-portfolio-jekyll" # the subpath of your site, e.g. /blog
-url: "https://sils.github.io/sils-io-3" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sils-io-3" # the subpath of your site, e.g. /blog
+url: "https://sils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  sils
 facebook_username:  "#"
 twitter_username:  vidhyav656
-google_analytics_tracking_id: UA-129738661-1
+google_analytics_tracking_id:
 # Build settings
 markdown: kramdown
 theme: minima
