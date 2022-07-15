@@ -18,7 +18,9 @@ If you know me and want to run with me, simply contact me and we'll find a way, 
 
 ## Give Me Numbers
 
-Below you'll find my personal bests. Why do I share them? I'm kinda proud. Should you care? Probably not ;).
+Below you'll find my personal bests.
+
+Why do I share them? I'm kinda proud. Should you care? Probably not ;).
 
 ### Marathon
 
