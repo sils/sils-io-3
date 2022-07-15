@@ -20,9 +20,21 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ## If Ever I Would Leave You, String Quartet
 
+### Recording
+
+<iframe src="https://drive.google.com/file/d/12qIgtbU-Fg5gfmRQWph1ggjgHFTxnkYH/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Sheet
+
 <iframe width="100%" height="600" src="https://musescore.com/user/1017686/scores/7724804/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 
 ## Blue Skies (Fast), String Quartet
+
+### Recording
+
+<iframe src="https://drive.google.com/file/d/1-tMGP-uHi9w1L9lh_8kQPipAHDsMwJs9/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Sheet
 
 <iframe width="100%" height="600" src="https://musescore.com/user/1017686/scores/7950728/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 
