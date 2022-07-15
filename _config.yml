@@ -19,18 +19,18 @@ description: This is a private site listing stuff I find interesting.
 
 keywords: private, interesting
 
-baseurl: "/sils-io-3" # the subpath of your site, e.g. /blog
-url: "https://sils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://sils.io' # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  sils
-facebook_username:  "#"
-twitter_username:  vidhyav656
+github_username: sils
+facebook_username: '#'
+twitter_username:
 google_analytics_tracking_id:
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+    - jekyll-feed
 incremental: true
 
 # Exclude from processing.
