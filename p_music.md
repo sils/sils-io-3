@@ -12,7 +12,7 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/11irAqSf4sasaVBzn9YJXlkWii1xtCC5o/preview" width="100%" height="60" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11irAqSf4sasaVBzn9YJXlkWii1xtCC5o/preview" width="100%" height="200" allow="autoplay"></iframe>
 
 ### Sheet
 
@@ -22,7 +22,7 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/12qIgtbU-Fg5gfmRQWph1ggjgHFTxnkYH/preview" width="100%" height="60" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/12qIgtbU-Fg5gfmRQWph1ggjgHFTxnkYH/preview" width="100%" height="200" allow="autoplay"></iframe>
 
 ### Sheet
 
@@ -32,7 +32,7 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/1-tMGP-uHi9w1L9lh_8kQPipAHDsMwJs9/preview" width="100%" height="60" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-tMGP-uHi9w1L9lh_8kQPipAHDsMwJs9/preview" width="100%" height="200" allow="autoplay"></iframe>
 
 ### Sheet
 
