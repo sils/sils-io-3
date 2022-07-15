@@ -10,6 +10,12 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ## Blue Skies (Slow), String Quartet
 
+### Recording
+
+<iframe src="https://drive.google.com/file/d/11irAqSf4sasaVBzn9YJXlkWii1xtCC5o/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Sheet
+
 <iframe width="100%" height="600" src="https://musescore.com/user/1017686/scores/7945169/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 
 ## If Ever I Would Leave You, String Quartet
