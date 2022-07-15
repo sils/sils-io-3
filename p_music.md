@@ -6,6 +6,8 @@ permalink: /music/
 
 Occasionally I arrange music. If you're interested, you can listen to some of my pieces down below.
 
+In some cases, performances with real instruments exist, I'll see to getting them published on this site at some point.
+
 ## Blue Skies (Slow), String Quartet
 
 <iframe width="100%" height="600" src="https://musescore.com/user/1017686/scores/7945169/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
