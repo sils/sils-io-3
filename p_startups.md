@@ -4,7 +4,7 @@ title: Startups
 permalink: /startups/
 ---
 
-Over time, I've built or helped build a number of companies. Here's a listing of some of the companies I've built.
+Over time, I've built or helped build a number of companies. Here's a listing of the companies that are most important to me and my history.
 
 ## [FounderBlocks](https://founderblocks.io/)
 
