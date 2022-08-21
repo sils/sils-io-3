@@ -12,7 +12,12 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/11irAqSf4sasaVBzn9YJXlkWii1xtCC5o/preview" width="100%" height="200" allow="autoplay"></iframe>
+<audio controls>
+    <source
+        src="https://drive.google.com/u/0/uc?id=11irAqSf4sasaVBzn9YJXlkWii1xtCC5o&export=download"
+        type="audio/wav"
+    />
+</audio>
 
 ### Sheet
 
@@ -22,7 +27,12 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/12qIgtbU-Fg5gfmRQWph1ggjgHFTxnkYH/preview" width="100%" height="200" allow="autoplay"></iframe>
+<audio controls>
+    <source
+        src="https://drive.google.com/u/0/uc?id=12qIgtbU-Fg5gfmRQWph1ggjgHFTxnkYH&export=download"
+        type="audio/wav"
+    />
+</audio>
 
 ### Sheet
 
@@ -32,7 +42,12 @@ In some cases, performances with real instruments exist, I'll see to getting the
 
 ### Recording
 
-<iframe src="https://drive.google.com/file/d/1-tMGP-uHi9w1L9lh_8kQPipAHDsMwJs9/preview" width="100%" height="200" allow="autoplay"></iframe>
+<audio controls>
+    <source
+        src="https://drive.google.com/u/0/uc?id=1-tMGP-uHi9w1L9lh_8kQPipAHDsMwJs9&export=download"
+        type="audio/wav"
+    />
+</audio>
 
 ### Sheet
 
