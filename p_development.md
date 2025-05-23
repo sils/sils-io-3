@@ -10,7 +10,7 @@ Not all of them are used or even meant to be used in production but some of them
 
 Below you'll find a showcase of a small selection projects I've (primarily) built and am proud of. (I generally built a bunch of stuff, some of which is throwaway.)
 
-## [coala.io](https://coala.io/)
+## coala.io
 
 One of my earliest and most well-known projects; I still regularly meet people (internationally!) who are inspired by it and joined it (or wanted to) some years ago.
 
@@ -18,7 +18,7 @@ With coala, _more than a thousand software developers were involved_ in making c
 
 This project, once a napkin idea of a student, got me started on my first startup and to date is a recruiting source for the companies we build.
 
-## [SameRun](https://same.run/)
+## SameRun
 
 SameRun was basically _built within two weekends_ as an excercise to _learn flutter and firebase_.
 
@@ -26,7 +26,7 @@ Due to COVID it was hard to meet for [runs](/sports) with other people and thus 
 
 Fun fact: the promo video was created entirely using stock material without any video editing experience _within 4 hours_.
 
-## [Hofly.de](https://hofly.de/)
+## Hofly
 
 The current Hofly version was primarily built by me single handedly within about 3-4 months. It's essentially a complete e commerce market place specialized to farmers with B2C and B2B client features.
 

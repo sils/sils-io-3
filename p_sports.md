@@ -14,7 +14,7 @@ I hate training alone. I'm serious. Without a running partner, most of the time 
 
 _No matter the pace_, I love running with other people, even if it's "just" a quick 3k round at 6min/km or a gym workout.
 
-If you know me and want to run with me, simply contact me and we'll find a way, either in person or via [same.run](https://same.run/) remotely.
+If you know me and want to run with me, simply contact me and we'll find a way, either in person or remotely.
 
 ## Give Me Numbers
 
