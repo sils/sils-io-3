@@ -18,10 +18,10 @@ I believe in a blend of documentary style and gentle guidance, ensuring you feel
 
 Below are some moments captured from recent celebrations:
 
-![Wedding couple with family](/assets/images/wedding/wedding_couple_family.jpeg "Capturing family joy")
-![Intimate wedding couple portrait](/assets/images/wedding/wedding_couple_portrait.jpeg "Quiet moments together")
-![Focus on wedding rings](/assets/images/wedding/wedding_rings_showcase.jpeg "Symbolic details")
-![Fun moment between wedding couple](/assets/images/wedding/wedding_couple_fun.jpeg "Candid fun")
+![Wedding couple with family](/assets/images/wedding_couple_family.jpeg "Capturing family joy")
+![Intimate wedding couple portrait](/assets/images/wedding_couple_portrait.jpeg "Quiet moments together")
+![Focus on wedding rings](/assets/images/wedding_rings_showcase.jpeg "Symbolic details")
+![Fun moment between wedding couple](/assets/images/wedding_couple_fun.jpeg "Candid fun")
 
 Interested in telling your story? Let's connect! Reach out to discuss your wedding plans and vision at [lasse@founderblocks.io](mailto:lasse@founderblocks.io).
 
