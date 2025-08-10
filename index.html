@@ -86,7 +86,7 @@ title: I'm Lasse :)
         </div>
         <div class="row no-gutters">
             <div class="col-lg-6">
-                <a class="portfolio-item" href="/startups">
+                <a class="portfolio-item" href="#startups">
                     <span class="caption">
                         <span class="caption-content">
                             <h2>Startups</h2>
@@ -103,7 +103,7 @@ title: I'm Lasse :)
                 </a>
             </div>
             <div class="col-lg-6">
-                <a class="portfolio-item" href="/music">
+                <a class="portfolio-item" href="#music">
                     <span class="caption">
                         <span class="caption-content">
                             <h2>Music</h2>
@@ -120,7 +120,7 @@ title: I'm Lasse :)
                 </a>
             </div>
             <div class="col-lg-6">
-                <a class="portfolio-item" href="/photography">
+                <a class="portfolio-item" href="#photography">
                     <span class="caption">
                         <span class="caption-content">
                             <h2>Photography</h2>
@@ -135,7 +135,7 @@ title: I'm Lasse :)
                 </a>
             </div>
             <div class="col-lg-6">
-                <a class="portfolio-item" href="/dev">
+                <a class="portfolio-item" href="#dev">
                     <span class="caption">
                         <span class="caption-content">
                             <h2>Software Development</h2>
@@ -152,7 +152,7 @@ title: I'm Lasse :)
                 </a>
             </div>
             <div class="col-lg-6">
-                <a class="portfolio-item" href="/sports">
+                <a class="portfolio-item" href="#sports">
                     <span class="caption">
                         <span class="caption-content">
                             <h2>Sports</h2>
@@ -169,6 +169,56 @@ title: I'm Lasse :)
                 </a>
             </div>
         </div>
+    </div>
+</section>
+{% assign startups_page = site.pages | where: "permalink", "/startups/" | first %}
+<section
+    class="content-section parallax text-white"
+    id="startups"
+    style="background-image: url('{{ site.baseurl }}/assets/img/startups.jpg');"
+>
+    <div class="container">
+        {{ startups_page.content | markdownify }}
+    </div>
+</section>
+{% assign music_page = site.pages | where: "permalink", "/music/" | first %}
+<section
+    class="content-section parallax text-white"
+    id="music"
+    style="background-image: url('{{ site.baseurl }}/assets/img/music.jpg');"
+>
+    <div class="container">
+        {{ music_page.content | markdownify }}
+    </div>
+</section>
+{% assign photo_page = site.pages | where: "permalink", "/photography/" | first %}
+<section
+    class="content-section parallax text-white"
+    id="photography"
+    style="background-image: url('{{ site.baseurl }}/assets/img/photo.jpg');"
+>
+    <div class="container">
+        {{ photo_page.content | markdownify }}
+    </div>
+</section>
+{% assign dev_page = site.pages | where: "permalink", "/dev/" | first %}
+<section
+    class="content-section parallax text-white"
+    id="dev"
+    style="background-image: url('{{ site.baseurl }}/assets/img/coding.jpg');"
+>
+    <div class="container">
+        {{ dev_page.content | markdownify }}
+    </div>
+</section>
+{% assign sports_page = site.pages | where: "permalink", "/sports/" | first %}
+<section
+    class="content-section parallax text-white"
+    id="sports"
+    style="background-image: url('{{ site.baseurl }}/assets/img/running.jpg');"
+>
+    <div class="container">
+        {{ sports_page.content | markdownify }}
     </div>
 </section>
 <!-- Call to Action -->
