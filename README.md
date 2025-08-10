@@ -14,6 +14,10 @@ This is a private site listing stuff Lasse finds interesting. It includes sectio
     *   Software Development
     *   Sports
 
+## Screenshot
+![Screenshot of the site](screenshot.jpg)
+
+
 ## Development
 
 To set up and run the site locally, you'll need to have [Jekyll](https://jekyllrb.com/) installed.
