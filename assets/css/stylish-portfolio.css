@@ -98,6 +98,7 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .masthead h1 {
@@ -223,6 +224,7 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .callout h2 {
