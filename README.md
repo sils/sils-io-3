@@ -1,21 +1,45 @@
-# Startbootstrap Stylish Portfolio Jekyll
+# Lasse's Personal Site
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<a href="https://jekyll-themes.com">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-[![Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9T2GKNLDVXDSE&source=url)
+This is the source code for Lasse's personal site, available at [sils.io](https://sils.io). The site is built with Jekyll and based on the [Stylish Portfolio Bootstrap theme](https://startbootstrap.com/template-overviews/stylish-portfolio/).
 
-Jekyll theme based on [Stylish Portfolio Bootstrap theme ](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+## About
 
-This is an bootstrap theme develop with Jekyll powered by github pages
+This is a private site listing stuff Lasse finds interesting. It includes sections on:
 
-## Demo
-View this jekyll theme in action [here](https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/)
+*   **Values:** What drives him (Curiosity and Happiness).
+*   **Interests:**
+    *   Startups
+    *   Music
+    *   Photography
+    *   Software Development
+    *   Sports
 
 ## Screenshot
 ![Screenshot of the site](screenshot.jpg)
 
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## Development
+
+To set up and run the site locally, you'll need to have [Jekyll](https://jekyllrb.com/) installed.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/sils/sils.io.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd sils.io
+    ```
+3.  **Install dependencies:**
+    ```bash
+    bundle install
+    ```
+4.  **Run the Jekyll server:**
+    ```bash
+    bundle exec jekyll serve
+    ```
+The site will be available at `http://localhost:4000`.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
