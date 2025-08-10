@@ -18,8 +18,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-ruby@v1
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.x'
       - name: Install dependencies
@@ -28,7 +28,7 @@ jobs:
           bundle install --jobs 4 --retry 3
       - name: Build site
         run: bundle exec jekyll build
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
@@ -40,4 +40,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
