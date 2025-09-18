@@ -10,6 +10,22 @@ permalink: /photography/
 
 Please note that most individual portraits have been stripped for privacy reasons.
 
+## Wedding Photography
+
+Your wedding day is a unique story waiting to be told – a tapestry woven with laughter, tears, stolen glances, and pure joy. My passion lies in capturing the authentic essence of your celebration, preserving the fleeting moments and heartfelt emotions that make your day truly unforgettable. From the quiet anticipation before the ceremony to the exuberant energy on the dance floor, I strive to document the genuine connections and candid interactions that reflect your love story.
+
+I believe in a blend of documentary style and gentle guidance, ensuring you feel comfortable and natural in front of the camera while capturing beautifully composed, timeless images. Let's create a visual narrative that you'll cherish for a lifetime, filled with the magic and emotion of your special day.
+
+Below are some moments captured from recent celebrations:
+
+![Wedding couple with family](/assets/images/wedding_couple_family.jpeg "Capturing family joy")
+![Intimate wedding couple portrait](/assets/images/wedding_couple_portrait.jpeg "Quiet moments together")
+![Focus on wedding rings](/assets/images/wedding_rings_showcase.jpeg "Symbolic details")
+![Fun moment between wedding couple](/assets/images/wedding_couple_fun.jpeg "Candid fun")
+
+Interested in telling your story? Let's connect! Reach out to discuss your wedding plans and vision at [lasse@founderblocks.io](mailto:lasse@founderblocks.io).
+
+
 ## Event Photography
 
 ### NDO 2024
